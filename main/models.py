@@ -1,1 +1,3 @@
-pass
+"""
+    Define models for the app
+"""

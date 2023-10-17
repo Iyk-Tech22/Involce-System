@@ -1,1 +1,3 @@
-pass
+"""
+    Inialiase the app.
+"""
